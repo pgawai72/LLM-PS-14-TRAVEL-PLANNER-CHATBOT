@@ -1,0 +1,7 @@
+streamlit>=1.50
+groq>=0.13
+google-genai>=1.0
+python-dotenv>=1.0
+pandas>=2.0
+fpdf2>=2.8
+pytest>=8.0
